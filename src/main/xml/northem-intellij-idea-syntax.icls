@@ -19,6 +19,9 @@ NOTE:
   THIS FILE WILL BE OVERRIDEN WHEN THE SETTINGS ARE CHANGED INSIDE THE IDE!
   TO KEEP THE METADATA COMMENT DOCUMENTATION AND FORMATTING EDIT THIS FILE MANUALLY!
 
+[Index]
+  (1) Global Options
+
 [Variations]
 Also available as:
   - "Northem Dark IntelliJ IDEA Syntax"  (https://github.com/arcticicestudio/northem-dark-intellij-idea-syntax)
@@ -167,4 +170,62 @@ gitflow
 Glacier - Git
   (https://github.com/arcticicestudio/glacier-git)
 -->
-<scheme name="Northem" version="142" parent_scheme="Darcula"></scheme>
+<scheme name="Northem" version="142" parent_scheme="Darcula">
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - +
+     + Global Options                                                         [1] +
+     +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + -->
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="c8cb79" />
+    <option name="ANNOTATIONS_COLOR" value="90cdc7" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="90cdc7" />
+    <option name="BORDER_LINES_COLOR" value="fcce85" />
+    <option name="CARET_COLOR" value="dedede" />
+    <option name="CARET_ROW_COLOR" value="383839" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="333334" />
+    <option name="DELETED_LINES_COLOR" value="df7574" />
+    <option name="FILESTATUS_ADDED" value="c8cb79" />
+    <option name="FILESTATUS_DELETED" value="df7574" />
+    <option name="FILESTATUS_HIJACKED" value="efa070" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="df7574" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="606062" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="efa070" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fcce85" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="efa070" />
+    <option name="FILESTATUS_MERGED" value="c8cb79" />
+    <option name="FILESTATUS_MODIFIED" value="fcce85" />
+    <option name="FILESTATUS_NOT_CHANGED" value="dedede" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="fcce85" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="fcce85" />
+    <option name="FILESTATUS_OBSOLETE" value="fcce85" />
+    <option name="FILESTATUS_SWITCHED" value="90cdc7" />
+    <option name="FILESTATUS_UNKNOWN" value="df7574" />
+    <option name="GUTTER_BACKGROUND" value="2d2d2e" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="" />
+    <option name="INDENT_GUIDE" value="606062" />
+    <option name="LINE_NUMBERS_COLOR" value="606062" />
+    <option name="METHOD_SEPARATORS_COLOR" value="c8cb79" />
+    <option name="MODIFIED_LINES_COLOR" value="fcce85" />
+    <option name="NOTIFICATION_BACKGROUND" value="5c81ae" />
+    <option name="READONLY_BACKGROUND" value="333334" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="2d2d2e" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="efa070" />
+    <option name="RIGHT_MARGIN_COLOR" value="606062" />
+    <option name="SELECTED_INDENT_GUIDE" value="606062" />
+    <option name="SELECTED_TEARLINE_COLOR" value="88b2cd" />
+    <option name="SELECTION_BACKGROUND" value="5c81ae" />
+    <option name="SELECTION_FOREGROUND" value="dedede" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="606062" />
+    <option name="TEARLINE_COLOR" value="606062" />
+    <option name="WHITESPACES" value="606062" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fcce85" />
+  </colors>
+<!-- +- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - [1]-+ -->
+</scheme>
