@@ -3,7 +3,7 @@
 title     Northem IntelliJ IDEA Syntax       +
 project   northem-intellij-idea-syntax       +
 file      northem-intellij-idea-syntax.icls  +
-version                                      +
+version   0.1.0                              +
 website   http://arcticicestudio.com/northem +
 author    Arctic Ice Studio                  +
 email     development@arcticicestudio.com    +
@@ -88,7 +88,7 @@ Includeds syntax highlighting for
   - "YAML/Ansible support"              (https://plugins.jetbrains.com/plugin/7792)
 
 [Version]
-- (https://github.com/arcticicestudio/northem-intellij-idea-syntax/releases/latest)
+0.1.0 (https://github.com/arcticicestudio/northem-intellij-idea-syntax/releases/latest)
 
 IntelliJ IDEA Community Edition: 15.0.x, 14.1.x
 
